@@ -1,0 +1,7 @@
+podexample.yaml
+/venv
+role.yaml
+rolebinding.yaml
+.gitignore
+LICENSE
+README.md
